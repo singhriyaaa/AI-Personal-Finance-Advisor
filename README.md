@@ -46,5 +46,3 @@ This project is an intelligent financial advisory system that analyzes user spen
 <img width="1366" height="583" alt="Screenshot (3245)" src="https://github.com/user-attachments/assets/efc31188-4514-4ea4-9dd9-fbe255e3fb42" />
 
 
-* Add real-time data integration
-* Improve prediction accuracy using advanced models
