@@ -119,11 +119,12 @@ Every category has its own thresholds set based on realistic monthly spending ra
 Feature engineering on date columns is more useful than it looks. Breaking a date into day and month gave the model meaningful patterns to learn from. Also, building the recommendation engine made me think about how to make ML outputs actually useful to a non-technical person — not just a number, but real advice they can act on.
 
 ---
+## Output
+[AI Personal Finance Advisor.pdf](https://github.com/user-attachments/files/27387435/AI.Personal.Finance.Advisor.pdf)
+[AI Personal Finance Advisor1.pdf](https://github.com/user-attachments/files/27387442/AI.Personal.Finance.Advisor1.pdf)
 
 ## Author
 
 Riya Singh
 github.com/singhriyaaa
 linkedin.com/in/riya-singh-58b668244
-
-## Output
