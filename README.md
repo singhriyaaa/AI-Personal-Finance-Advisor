@@ -1,12 +1,12 @@
 # AI Personal Finance Advisor
 
-A machine learning web app that predicts your monthly expenses, compares them with your spending history, and gives you personalized saving advice — all in one place.
+A machine learning web app that predicts your monthly expenses, compares them with your spending history, and gives you personalized saving advice all in one place.
 
 ---
 
 ## What This Project Does
 
-Most people don't realize how much they're overspending until it's too late. This project tries to fix that. You enter a date and a spending category, and the app predicts how much you're likely to spend. It then tells you whether that's too high, okay, or well within budget — and gives you specific tips to manage it better.
+Most people don't realize how much they're overspending until it's too late. This project tries to fix that. You enter a date and a spending category, and the app predicts how much you're likely to spend. It then tells you whether that's too high, okay, or well within budget and gives you specific tips to manage it better.
 
 On top of that, there's a full trend analysis section where you can see your spending patterns across months and categories through charts and a heatmap.
 
@@ -14,7 +14,7 @@ On top of that, there's a full trend analysis section where you can see your spe
 
 ## Why I Built This
 
-I wanted to build something that goes beyond just training a model and printing accuracy scores. This project combines machine learning, data analysis, and a real usable interface — something you can actually open and interact with. The finance domain made sense because everyone deals with money and budgeting is a genuinely useful problem to solve.
+I wanted to build something that goes beyond just training a model and printing accuracy scores. This project combines machine learning, data analysis, and a real usable interface something you can actually open and interact with. The finance domain made sense because everyone deals with money and budgeting is a genuinely useful problem to solve.
 
 ---
 
@@ -116,7 +116,7 @@ Every category has its own thresholds set based on realistic monthly spending ra
 
 ## What I Learned
 
-Feature engineering on date columns is more useful than it looks. Breaking a date into day and month gave the model meaningful patterns to learn from. Also, building the recommendation engine made me think about how to make ML outputs actually useful to a non-technical person — not just a number, but real advice they can act on.
+Feature engineering on date columns is more useful than it looks. Breaking a date into day and month gave the model meaningful patterns to learn from. Also, building the recommendation engine made me think about how to make ML outputs actually useful to a non-technical person  not just a number, but real advice they can act on.
 
 ---
 ## Output
